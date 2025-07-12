@@ -1,5 +1,6 @@
 ## Hi there! I'm Rizki Rahman Saputra 👋
 
+![Rizki Rahman](img/github-header-image.png)
 <!--
 **RizkiRahman20/RizkiRahman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
